@@ -1,0 +1,95 @@
+Last login: Sat Apr  2 12:58:58 on ttys000
+-bash: /Users/Selin/Documents/Marketing-Automation/Documents/Marketing-Automation/google-cloud-sdk/completion.bash.inc: No such file or directory
+Selins-Air:~ Selin$ 
+  [Wiederhergestellt]
+Last login: Sat Apr  2 13:21:09 on ttys000
+-bash: /Users/Selin/Documents/Marketing-Automation/Documents/Marketing-Automation/google-cloud-sdk/completion.bash.inc: No such file or directory
+Selins-MacBook-Air:~ Selin$ ls
+Applications		ISLR.tar.gz		SpiderOak Hive
+Desktop			Library			VirtualBox VMs
+Documents		Movies			google-cloud-sdk
+Downloads		Music			node_modules
+Dropbox			Pictures		perl5
+ISLR			Public			test
+Selins-MacBook-Air:~ Selin$ cd Documents
+Selins-MacBook-Air:Documents Selin$ ls
+ANURA LB von GR-Weinhandel.numbers
+FirstApp
+GCBW-Icon.png
+Google Cloud Test (Marketing Automation)
+GreenFee Deals
+MATLAB
+Marketing-Automation
+Media.xcassets
+Perl-Scripts
+Python Scripts
+R
+YouTube Video Downloader
+icons
+node-passport-oauth2
+node-simple
+Selins-MacBook-Air:Documents Selin$ mkdir datasciensecoursera
+Selins-MacBook-Air:Documents Selin$ ls
+ANURA LB von GR-Weinhandel.numbers
+FirstApp
+GCBW-Icon.png
+Google Cloud Test (Marketing Automation)
+GreenFee Deals
+MATLAB
+Marketing-Automation
+Media.xcassets
+Perl-Scripts
+Python Scripts
+R
+YouTube Video Downloader
+datasciensecoursera
+icons
+node-passport-oauth2
+node-simple
+Selins-MacBook-Air:Documents Selin$ mkdir datasciensecoursera
+mkdir: datasciensecoursera: File exists
+Selins-MacBook-Air:Documents Selin$ ls
+ANURA LB von GR-Weinhandel.numbers
+FirstApp
+GCBW-Icon.png
+Google Cloud Test (Marketing Automation)
+GreenFee Deals
+MATLAB
+Marketing-Automation
+Media.xcassets
+Perl-Scripts
+Python Scripts
+R
+YouTube Video Downloader
+datasciensecoursera
+icons
+node-passport-oauth2
+node-simple
+Selins-MacBook-Air:Documents Selin$ cd datasciensecoursera/
+Selins-MacBook-Air:datasciensecoursera Selin$ touch HelloWorld.md
+Selins-MacBook-Air:datasciensecoursera Selin$ vi HelloWorld.md 
+
+ This is a markdown file
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
